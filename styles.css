@@ -56,7 +56,7 @@ main{
 }
 
 .titulo-prog{
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 700;
   color: #fff;
   background-image: linear-gradient(90deg,#9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
